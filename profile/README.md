@@ -5,11 +5,11 @@ Fornex Cloud
 + Cloud Servers (VPS)
 + Virtual Hosting
 + Dedicated servers 
-+ Management 
 + VPN
 + Colocation
 
 Locations:
++ Spain
 + Ukraine
 + USA
 + Germany
