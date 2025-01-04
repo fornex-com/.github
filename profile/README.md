@@ -3,18 +3,21 @@
 Fornex Cloud
 
 + Cloud Servers (VPS)
-+ Virtual Hosting
++ Virtual Shared Hosting
 + Dedicated servers 
 + VPN
 + Colocation
 
 Locations:
-+ Spain
-+ Ukraine
-+ USA
-+ Germany
-+ Netherlands
-+ Switzerland
-+ Russia
++ Spain (Barcelona)
++ Ukraine (Kyiv)
++ USA (Dallas)
++ Germany (Frankfurt)
++ Netherlands (Rotterdam)
++ Switzerland (Hunenberg)
++ Russia (Moscow)
 
-www: https://fornex.com
+---
++ Site: https://fornex.com
++ Opencollective sponsor: https://opencollective.com/fornex_com
++ Opensource poject: https://github.com/MongoEngine/django-mongoengine
